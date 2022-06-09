@@ -1,2 +1,2 @@
-# AI_in-_pyhton-
+# AI_in_pyhton
 Want to make AI decisions using python
